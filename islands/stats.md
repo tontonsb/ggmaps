@@ -43,3 +43,13 @@ Total: 2259
 | Canarias           | Spain         | 66    | Too many |
 | Iceland            | Iceland       | 12    | OK |
 | Faroe Islands      | Faroe Islands | 54    | Too many |
+
+## Africa
+
+| Area                | Country       | Count | Notes |
+|---------------------|---------------|------:|-------|
+| Gorée               | Senegal       | 6     | OK |
+| São Tomé & Príncipe | ST & Príncipe | 17    | OK |
+| Robben Island       | South Africa  | 6     | OK |
+| Réunion             | France        | 11    | OK |
+| Madagascar          | Madagascar    | 15    | Check |

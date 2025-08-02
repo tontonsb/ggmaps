@@ -85,4 +85,26 @@ Total: 2259
 
 ## South America
 
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| Gorgona Island        | Colombia    | 6     | OK |
+| Galápagos             | Ecuador     | 15    | OK |
+| Ballestas             | Peru        | 3     | OK |
+| Fernando de Noronha   | Brazil      | 10    | OK |
+| Coastal Brazil        | Brazil      | 27    | OK |
+| Chiloé Island         | Chile       | 11    | OK |
+| Isla Navarino         | Chile       | 6     | OK |
+| I Grande d Tierra del Fuego | Argentina | 9 | OK |
+| Falkland Islands      | UK          | 9     | OK |
+
 ## Antarctica
+
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| South Georgia         | UK          | 4     | OK |
+| Ross Island           | none        | 0     | Needs more |
+| Petermann Island      | none        | 3     | OK |
+| Danco Island          | none        | 3     | OK |
+| Cuverville Island     | none        | 3     | OK |
+| Deception Island      | none        | 3     | OK |
+| Half Moon Island      | none        | 3     | OK |

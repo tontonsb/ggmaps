@@ -53,3 +53,24 @@ Total: 2259
 | Robben Island       | South Africa  | 6     | OK |
 | Réunion             | France        | 11    | OK |
 | Madagascar          | Madagascar    | 15    | Check |
+
+## North America
+
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| Greenland             | Denmark     | 34    | Too many |
+| Northern Canada       | Canada      | 34    | Too many |
+| Newfoundland          | Canada      | 8     | OK |
+| St Pierre & Miquelon  | France      | 12    | OK |
+| Sable Island          | Canada      | 3     | OK |
+| Alexander Archipelago | US          | 8     | OK |
+| Haida Gwaii           | Canada      | 9     | OK |
+| Bermuda               | UK          | 12    | OK |
+| Coastal US            | US          | 36    | Check, probs ok (three coasts) |
+| Coastal Mexico        | Mexico      | 20    | OK |
+
+## Central America
+
+## South America
+
+## Antarctica

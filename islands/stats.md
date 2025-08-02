@@ -71,6 +71,18 @@ Total: 2259
 
 ## Central America
 
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| Cocos Island          | Costa Rica  | 6     | OK |
+| Caño Island           | Costa Rica  | 3     | OK |
+| S Andres & Providenc. | Colombia    | 11    | OK |
+| Caño La Balsa         | Colombia    | 3     | OK |
+| Curaçao               | Netherlands | 12    | OK |
+| Martinique            | France      | 6     | OK |
+| Dominican Republic    | Dominican R | 12    | OK |
+| Puerto Rico           | US          | 12    | OK |
+| US Virgin Islands     | US          | 21    | OK |
+
 ## South America
 
 ## Antarctica

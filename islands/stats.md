@@ -108,3 +108,34 @@ Total: 2259
 | Cuverville Island     | none        | 3     | OK |
 | Deception Island      | none        | 3     | OK |
 | Half Moon Island      | none        | 3     | OK |
+
+## Polynesia
+
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| Pitcairn Islands      | UK          | 14    | OK |
+| Windward Hawaiians    | US          | 36    | OK |
+| Leeward Hawaiians     | US          | 15    | OK |
+| Midway Atoll          | US          | 4     | Needs more |
+| American Samoa        | US          | 22    | OK |
+
+## Melanesia
+
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| Vanuatu               | Vanuatu     | 3     | OK |
+
+## Micronesia
+
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| Guam                  | US          | 12    | OK |
+| Northern Marianas     | US          | 31    | Needs more Tinian |
+
+## Australasia
+
+| Area                  | Country     | Count | Notes |
+|-----------------------|-------------|------:|-------|
+| New Zealand           | New Zealand | 24    | Needs more small islands |
+| Coastal Australia     | Australia   | 30    | OK |
+| Tasmania              | Tasmania    | 10    | Needs Tasmania itself |

@@ -162,4 +162,10 @@ Total: 2259
 
 ## East Asia
 
+| Area                  | Country      | Count | Notes |
+|-----------------------|--------------|------:|-------|
+| Sakhalin              | Russia       | 12    | OK |
+| Main Japan & coastal  | Japan        | 75    | Too many |
+
+
 ## Southeast Asia

@@ -16,6 +16,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 
+## [0.1.1] - 2025-08-07
+
+### Added
+
+- Stats for v0.1 Islands
+
 ## [0.1.0] - 2025-08-01
 
 ### Added

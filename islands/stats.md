@@ -6,26 +6,26 @@ Total: 2259
 
 | Area               | Country       | Count | Notes |
 |--------------------|---------------|------:|-------|
-| Svalbard           | Norway        | 17    | Too many |
-| Coastal Norway     | Norway        | 106   | Too many |
-| Coastal Sweden     | Sweden        | 19    | Too many |
-| Coastal Finland    | Finland       | 19    | Too many |
-| Åland              | Finland       | 12    | ? |
-| Gotland            | Sweden        | 7     | OK |
-| Saare & Hiiu       | Estonia       | 24    | OK |
-| Bornholm           | Denmark       | 10    | ? |
-| Denmark            | Denmark       | 35    | Too many |
-| Netherlands        | Netherlands   | 12    | OK |
-| Belle Île          | France        | 5     | OK |
-| Jersey             | UK            | 8     | OK |
-| Shetland           | UK            | 22    | ? |
-| Orkney             | UK            | 24    | ? |
-| Hebrides           | UK            | 32    | Too many |
-| Isle of Man        | UK            | 9     | ? |
-| Isle of Wight      | UK            | 6     | ? |
-| Great Britain      | UK            | 12    | ? |
-| Ireland            | UK & Ireland  | 5     | OK |
-| Coastal Ireland    | UK & Ireland  | 9     | OK |
+| Svalbard           | Norway        | 12    | OK    |
+| Coastal Norway     | Norway        | 30    | OK    |
+| Coastal Sweden     | Sweden        | 15    | OK    |
+| Coastal Finland    | Finland       | 16    | OK    |
+| Åland              | Finland       | 11    | OK    |
+| Gotland            | Sweden        | 7     | OK    |
+| Saare & Hiiu       | Estonia       | 24    | OK    |
+| Bornholm           | Denmark       | 10    | OK    |
+| Denmark            | Denmark       | 30    | OK    |
+| Netherlands        | Netherlands   | 12    | OK    |
+| Belle Île          | France        | 5     | OK    |
+| Jersey             | UK            | 8     | OK    |
+| Shetland           | UK            | 18    | OK    |
+| Orkney             | UK            | 16    | OK    |
+| Hebrides           | UK            | 16    | OK    |
+| Isle of Wight      | UK            | 4     | OK    |
+| Great Britain      | UK            | 10    | OK    |
+| Isle of Man        | UK            | 9     | OK    |
+| Ireland            | UK & Ireland  | 5     | OK    |
+| Coastal Ireland    | UK & Ireland  | 9     | OK    |
 | Balearic Islands   | Spain         | 45    | Too many |
 | Coastal France     | France        | 9     | OK |
 | Corsica            | France        | 12    | OK |
@@ -42,7 +42,7 @@ Total: 2259
 | Madeira            | Portugal      | 12    | OK |
 | Canarias           | Spain         | 66    | Too many |
 | Iceland            | Iceland       | 12    | OK |
-| Faroe Islands      | Faroe Islands | 54    | Too many |
+| Faroe Islands      | Faroe Islands | 30    | OK    |
 
 ## Africa
 
@@ -197,3 +197,4 @@ Total: 2259
 | Batanes               | Philippines  | 13    | OK? |
 | Palawan               | Philippines  | 11    | OK? |
 | Core Philippines      | Philippines  | 54    | Too many |
+

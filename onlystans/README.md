@@ -12,6 +12,9 @@ Because OnlyStans is funny term I came across [on reddit](https://www.reddit.com
 If not, traversable (moving-able) coverage is preferred, but static locations (photospheres) are also included.
 For some -stans like the Turkmen one there are only static locations, sry.
 
+> [!NOTE]  
+> There are now more than 20 locations for some of the stans. While adding trivia a decided to freely add more whenever I have anything to tell about a location.
+
 Contrary to the definition on reddit, I included some more stans stretching definition according to vibes.
 
 - **Kazakhstan.** Official coverage.
@@ -34,6 +37,9 @@ So this only includes the -stan Rajasthan and the part claimed by both Hindustan
 
 ## Stats
 
+> [!NOTE]  
+> There are now more than 20 locations for some of the stans. While adding trivia a decided to freely add more whenever I have anything to tell about a location.
+
 | Country  | Locations | Official | Unofficial | Traversable unofficial |
 |----------|-----------|----------|------------|------------------------|
 | Russia   | 60        | 60       | 0          | 0                      |
@@ -50,3 +56,4 @@ So this only includes the -stan Rajasthan and the part claimed by both Hindustan
 | Iran     | 6         | 0        | 6          | 1                      |
 | Turkey   | 4         | 4        | 0          | 0                      |
 | Syria    | 1         | 0        | 1          | 0                      |
+

@@ -26,22 +26,22 @@ Total: 2259
 | Isle of Man        | UK            | 9     | OK    |
 | Ireland            | UK & Ireland  | 5     | OK    |
 | Coastal Ireland    | UK & Ireland  | 9     | OK    |
-| Balearic Islands   | Spain         | 45    | Too many |
-| Coastal France     | France        | 9     | OK |
-| Corsica            | France        | 12    | OK |
-| Sardinia & coastal | Italy         | 15    | ? |
-| Sicily & coastal   | Italy         | 53    | Too many |
-| Coastal Italy      | Italy         | 45    | Too many |
-| Coastal Croatia    | Croatia       | 36    | Too many |
-| Greece             | Greece        | 87    | Too many |
-| Imbros & Marmara   | Turkey        | 9     | OK |
-| Cyprus             | UK            | 6     | OK |
-| Malta              | Malta         | 19    | OK |
-| Mediterranean IT   | Italy         | 14    | ? count with Sicily ? |
-| Azores             | Portugal      | 19    | OK |
-| Madeira            | Portugal      | 12    | OK |
-| Canarias           | Spain         | 66    | Too many |
-| Iceland            | Iceland       | 12    | OK |
+| Balearic Islands   | Spain         | 30    | OK    |
+| Coastal France     | France        | 9     | OK    |
+| Corsica            | France        | 12    | OK    |
+| Sardinia & coastal | Italy         | 12    | OK    |
+| Sicily & coastal   | Italy         | 30    | OK    |
+| Coastal Italy      | Italy         | 30    | OK    |
+| Coastal Croatia    | Croatia       | 30    | OK    |
+| Greece             | Greece        | 30    | OK    |
+| Imbros & Marmara   | Turkey        | 9     | OK    |
+| Cyprus             | UK            | 6     | OK    |
+| Malta              | Malta         | 19    | OK    |
+| Mediterranean IT   | Italy         | 13    | OK    |
+| Azores             | Portugal      | 19    | OK    |
+| Madeira            | Portugal      | 12    | OK    |
+| Canarias           | Spain         | 30    | OK    |
+| Iceland            | Iceland       | 12    | OK    |
 | Faroe Islands      | Faroe Islands | 30    | OK    |
 
 ## Africa
@@ -56,15 +56,15 @@ Total: 2259
 
 | Area                  | Country     | Count | Notes |
 |-----------------------|-------------|------:|-------|
-| Greenland             | Denmark     | 34    | Too many |
-| Northern Canada       | Canada      | 34    | Too many |
+| Greenland             | Denmark     | 30    | OK |
+| Northern Canada       | Canada      | 30    | OK |
 | Newfoundland          | Canada      | 8     | OK |
 | St Pierre & Miquelon  | France      | 12    | OK |
 | Sable Island          | Canada      | 3     | OK |
 | Alexander Archipelago | US          | 8     | OK |
 | Haida Gwaii           | Canada      | 9     | OK |
 | Bermuda               | UK          | 12    | OK |
-| Coastal US            | US          | 36    | Check, probs ok (three coasts) |
+| Coastal US            | US          | 36    | OK (three coasts) |
 | Coastal Mexico        | Mexico      | 20    | OK |
 
 ## Central America
@@ -197,4 +197,5 @@ Total: 2259
 | Batanes               | Philippines  | 13    | OK? |
 | Palawan               | Philippines  | 11    | OK? |
 | Core Philippines      | Philippines  | 54    | Too many |
+
 

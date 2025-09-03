@@ -100,7 +100,7 @@ Total: 2259
 | Area                  | Country     | Count | Notes |
 |-----------------------|-------------|------:|-------|
 | South Georgia         | UK          | 4     | OK |
-| Ross Island           | none        | 0     | Needs more |
+| Ross Island           | none        | 6     | OK |
 | Petermann Island      | none        | 3     | OK |
 | Danco Island          | none        | 3     | OK |
 | Cuverville Island     | none        | 3     | OK |
@@ -114,7 +114,7 @@ Total: 2259
 | Pitcairn Islands      | UK          | 14    | OK |
 | Windward Hawaiians    | US          | 36    | OK |
 | Leeward Hawaiians     | US          | 15    | OK |
-| Midway Atoll          | US          | 4     | Needs more |
+| Midway Atoll          | US          | 8     | OK |
 | American Samoa        | US          | 22    | OK |
 
 ## Melanesia
@@ -128,7 +128,7 @@ Total: 2259
 | Area                  | Country     | Count | Notes |
 |-----------------------|-------------|------:|-------|
 | Guam                  | US          | 12    | OK |
-| Northern Marianas     | US          | 31    | Needs more Tinian |
+| Northern Marianas     | US          | 30    | OK |
 
 ## Australasia
 
@@ -197,5 +197,6 @@ Total: 2259
 | Batanes               | Philippines  | 13    | OK? |
 | Palawan               | Philippines  | 11    | OK? |
 | Core Philippines      | Philippines  | 54    | Too many |
+
 
 

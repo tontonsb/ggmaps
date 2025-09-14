@@ -134,15 +134,16 @@ Total: 2259
 
 | Area                  | Country     | Count | Notes |
 |-----------------------|-------------|------:|-------|
-| New Zealand           | New Zealand | 24    | Needs more small islands |
+| New Zealand           | New Zealand | 30    | OK |
+| Antipodes Islands     | New Zealand | 3     | OK |
 | Coastal Australia     | Australia   | 30    | OK |
-| Tasmania              | Tasmania    | 10    | Needs Tasmania itself |
+| Tasmania              | Tasmania    | 30    | OK |
 
 ## Arabia
 
 | Area                  | Country     | Count | Notes |
 |-----------------------|-------------|------:|-------|
-| Sir Bani Yas          | UAE         | 5     | +1 |
+| Sir Bani Yas          | UAE         | 7     | OK |
 | Masirah               | Oman        | 5     | OK |
 
 
@@ -150,15 +151,15 @@ Total: 2259
 
 | Area                  | Country      | Count | Notes |
 |-----------------------|--------------|------:|-------|
-| Réunion               | France       | 11    | OK |
-| Madagascar            | Madagascar   | 15    | Check |
+| Réunion               | France       | 12    | OK |
+| Madagascar            | Madagascar   | 27    | OK |
 | British Indian Oce.   | UK/Mauritius | 20    | OK |
-| Lakshadweep           | India        | 16    | Needs more |
+| Lakshadweep           | India        | 21    | OK |
 | Sri Lanka             | Sri Lanka    | 12    | OK |
 | Coastal Bangladesh    | Bangladesh   | 11    | OK |
 | Andaman Islands       | India        | 26    | OK |
-| Cocos Islands         | Australia    | 7     | More? |
-| Christmas Island      | Australia    | 9     | Need more crabs |
+| Cocos Islands         | Australia    | 27    | OK |
+| Christmas Island      | Australia    | 12    | OK |
 
 ## East Asia
 
@@ -197,6 +198,7 @@ Total: 2259
 | Batanes               | Philippines  | 13    | OK? |
 | Palawan               | Philippines  | 11    | OK? |
 | Core Philippines      | Philippines  | 54    | Too many |
+
 
 
 

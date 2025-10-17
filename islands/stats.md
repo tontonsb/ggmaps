@@ -166,26 +166,27 @@ Total: 2259
 | Area                  | Country      | Count | Notes |
 |-----------------------|--------------|------:|-------|
 | Sakhalin              | Russia       | 12    | OK |
-| Main Japan & coastal  | Japan        | 75    | Too many |
-| Ogasawara Islands     | Japan        | 5     | More? |
-| Daito Islands         | Japan        | 3     | More? |
-| Okinawa Islands       | Japan        | 23    | Check |
-| Miyako & Yaeyama I.   | Japan        | 16    | Check |
+| Main Japan & coastal  | Japan        | 48    | Too many |
+| Ogasawara Islands     | Japan        | 7     | OK |
+| Daito Islands         | Japan        | 4     | OK |
+| Okinawa Islands       | Japan        | 18    | OK |
+| Miyako & Yaeyama I.   | Japan        | 15    | OK |
 | Jeju Province         | South Korea  | 18    | OK |
 | Kinmen                | Taiwan       | 16    | OK |
 | Matsu Islands         | Taiwan       | 15    | OK |
-| Formosa & around      | Taiwan       | 45    | Check |
+| Formosa & around      | Taiwan       | 20    | OK |
+| Penghu county         | Taiwan       | 24    | OK |
 | Hong Kong             | China        | 28    | OK |
 
 ## Southeast Asia
 
 | Area                  | Country      | Count | Notes |
 |-----------------------|--------------|------:|-------|
-| Coastal Cambodia      | Cambodia     | 14    | OK    |
-| Coastal Thailand      | Thailand     | 45    | Check |
-| Malay peninsula coast | Malaysia     | 15    | More? |
+| Coastal Cambodia      | Cambodia     | 14    | OK |
+| Coastal Thailand      | Thailand     | 42    | OK |
+| Malay peninsula coast | Malaysia     | 15    | OK |
 | Malaysian Borneo      | Malaysia     | 26    | Check |
-| Singapore             | Singapore    | 3     | More? |
+| Singapore             | Singapore    | 3     | OK |
 | Kalimantan            | Indonesia    | 14    | More? |
 | Sumatra               | Indonesia    | 12    | OK?   |
 | Nias                  | Indonesia    | 5     | Count with Sumatra? |
@@ -195,9 +196,10 @@ Total: 2259
 | Lesser Sunda Islands  | Indonesia    | 43    | Too many |
 | Sulawesi              | Indonesia    | 33    | Too many |
 | North Maluku Islands  | Indonesia    | 10    | OK? |
-| Batanes               | Philippines  | 13    | OK? |
-| Palawan               | Philippines  | 11    | OK? |
-| Core Philippines      | Philippines  | 54    | Too many |
+| Batanes               | Philippines  | 13    | OK |
+| Palawan               | Philippines  | 11    | OK |
+| Core Philippines      | Philippines  | 40    | Too many |
+
 
 
 

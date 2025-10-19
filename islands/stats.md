@@ -1,6 +1,6 @@
 These are counted and updated by hand. So they're expected to be inacccurate and outdated.
 
-Total: 2259
+Total: 1965
 
 ## Europe
 
@@ -199,3 +199,4 @@ Total: 2259
 | Batanes               | Philippines  | 13    | OK |
 | Palawan               | Philippines  | 11    | OK |
 | Core Philippines      | Philippines  | 36    | OK |
+

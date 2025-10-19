@@ -188,20 +188,14 @@ Total: 2259
 | Malaysian Borneo      | Malaysia     | 26    | OK |
 | Singapore             | Singapore    | 3     | OK |
 | Kalimantan            | Indonesia    | 14    | OK |
-| Sumatra               | Indonesia    | 12    | OK?   |
+| Sumatra               | Indonesia    | 12    | OK |
 | Nias                  | Indonesia    | 5     | OK |
 | Riau Islands          | Indonesia    | 15    | OK |
 | Bangka Belitung Is.   | Indonesia    | 8     | OK |
 | Java                  | Indonesia    | 15    | OK |
-| Lesser Sunda Islands  | Indonesia    | 43    | Too many |
-| Sulawesi              | Indonesia    | 33    | Too many |
-| North Maluku Islands  | Indonesia    | 10    | OK? |
+| Lesser Sunda Islands  | Indonesia    | 30    | OK |
+| Sulawesi              | Indonesia    | 30    | OK |
+| North Maluku Islands  | Indonesia    | 10    | OK |
 | Batanes               | Philippines  | 13    | OK |
 | Palawan               | Philippines  | 11    | OK |
-| Core Philippines      | Philippines  | 40    | Too many |
-
-
-
-
-
-
+| Core Philippines      | Philippines  | 36    | OK |

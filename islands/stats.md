@@ -166,7 +166,7 @@ Total: 2259
 | Area                  | Country      | Count | Notes |
 |-----------------------|--------------|------:|-------|
 | Sakhalin              | Russia       | 12    | OK |
-| Main Japan & coastal  | Japan        | 48    | Too many |
+| Main Japan & coastal  | Japan        | 36    | OK |
 | Ogasawara Islands     | Japan        | 7     | OK |
 | Daito Islands         | Japan        | 4     | OK |
 | Okinawa Islands       | Japan        | 18    | OK |
@@ -185,20 +185,21 @@ Total: 2259
 | Coastal Cambodia      | Cambodia     | 14    | OK |
 | Coastal Thailand      | Thailand     | 42    | OK |
 | Malay peninsula coast | Malaysia     | 15    | OK |
-| Malaysian Borneo      | Malaysia     | 26    | Check |
+| Malaysian Borneo      | Malaysia     | 26    | OK |
 | Singapore             | Singapore    | 3     | OK |
-| Kalimantan            | Indonesia    | 14    | More? |
+| Kalimantan            | Indonesia    | 14    | OK |
 | Sumatra               | Indonesia    | 12    | OK?   |
-| Nias                  | Indonesia    | 5     | Count with Sumatra? |
-| Riau Islands          | Indonesia    | 15    | Count with Sumatra? |
-| Bangka Belitung Is.   | Indonesia    | 8     | Count with Sumatra? |
-| Java                  | Indonesia    | 15    | ?? |
+| Nias                  | Indonesia    | 5     | OK |
+| Riau Islands          | Indonesia    | 15    | OK |
+| Bangka Belitung Is.   | Indonesia    | 8     | OK |
+| Java                  | Indonesia    | 15    | OK |
 | Lesser Sunda Islands  | Indonesia    | 43    | Too many |
 | Sulawesi              | Indonesia    | 33    | Too many |
 | North Maluku Islands  | Indonesia    | 10    | OK? |
 | Batanes               | Philippines  | 13    | OK |
 | Palawan               | Philippines  | 11    | OK |
 | Core Philippines      | Philippines  | 40    | Too many |
+
 
 
 
